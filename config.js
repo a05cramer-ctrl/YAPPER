@@ -1,1 +1,1 @@
-window.YAPPER_CFG={NAME:"yapper",TICKER:"YAPPER",CA:"",CHAIN:"solana",PAD:"pump.fun",X:"",BUY:"",CHART:""};
+window.YAPPER_CFG={NAME:"yapper",TICKER:"YAP",CA:"6GgM1kVRUY9AUoSr6VzqwK9ZNHdGac3XjfGyzx1spump",CHAIN:"solana",PAD:"pump.fun",X:"https://x.com/yappercoins",BUY:"https://pump.fun/coin/6GgM1kVRUY9AUoSr6VzqwK9ZNHdGac3XjfGyzx1spump",CHART:""};
